@@ -1,0 +1,7 @@
+  * Moshe Looks, [Competent Program Evolution](http://metacog.org/main.pdf) Doctoral Dissertation, 2006.
+  * Moshe Looks and Ben Goertzel [Program Representation for General Intelligence](http://www.agi-09.org/papers/paper_69.pdf), 2009.
+  * Moshe Looks, [Scalable Estimation-of-Distribution Program Evolution](http://metacog.org/papers/gecco07a.pdf), Genetic and Evolutionary Computation COnference (GECCO), 2007.
+  * Moshe Looks, [Meta-Optimizing Semantic Evolutionary Search](http://metacog.org/papers/gecco07c.pdf), Genetic and Evolutionary Computation COnference (GECCO), 2007.
+  * Moshe Looks, Ben Goertzel, Lucio de Souza Coelho, Mauricio Mudado, and Cassio Pennachin, [Clustering Gene Expression Data via Mining Ensembles of Classification Rules Evolved Using MOSES](http://metacog.org/papers/gecco07d.pdf), Genetic and Evolutionary Computation COnference (GECCO), 2007.
+  * Moshe Looks, Ben Goertzel, Lucio de Souza Coelho, Mauricio Mudado, and Cassio Pennachin, [Understanding Microarray Data through Applying Competent Program Evolution](http://metacog.org/papers/gecco07a.pdf), Genetic and Evolutionary Computation COnference (GECCO), 2007.
+  * Moshe Loos [Program Evolution for General Intelligence](http://goertzel.org/agiri06/%5B9%5D%20moses_agiri_paper_final-1_UPDATED_3_21.pdf), Artificial General Intel ligence Research Institute Workshop (AGIRI), 2006.
